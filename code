@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>Events</title>
+<link rel="icon" href="img/date.png" >
+    </head>
+ 
+    <body bgcolor="black" style="color: white;">
+        <center>
+            <h1>UPCOMING EVENTS 📅</h1>
+            <p>Don't miss any of yours important events.Tay updated</p>
+        </center>
+        <hr>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae quis rem, nisi perferendis corporis maxime odit facilis omnis quas hic consectetur voluptatum aliquam at eaque explicabo fuga enim? In suscipit dolore quod aut! Commodi exercitationem nobis dicta, officia nesciunt explicabo dolorum mollitia facere deleniti dolor, impedit in quos, ratione cumque voluptatum temporibus fugiat eveniet nemo. Numquam sint impedit dolorem eaque at atque perspiciatis quia. Ea, enim dolorem. Beatae soluta autem aperiam dolorem consequuntur, reiciendis deserunt nostrum neque inventore debitis. Enim itaque quam eum aliquam harum inventore nihil optio voluptatum iure placeat laborum ipsum officiis magnam, reprehenderit ratione assumenda? Voluptatibus, totam.</p>
+
+
+       <center>
+        <img src="img/event1.png">
+        <h1>
+            <a href="https://in.pinterest.com/">Photo Gallery</a></h1>
+        <h2>Free Entry | Free Food | Pets are not allowed</h2>
+       <p>lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus natus nam facilis vitae sapiente blanditiis delectus aut quidem adipisci dicta ab tempora saepe, fuga odio. Esse temporibus culpa ut eligendi consectetur quos enim perspiciatis id obcaecati aut minus unde, totam saepe reiciendis nisi, accusamus aliquid quas debitis voluptates non odio.
+       </p>
+       </center>
+       <hr>
+
+       <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.purplle.com/">Fashion store</a>
+        </h1>
+        <p>lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus natus nam facilis vitae sapiente blanditiis delectus aut quidem adipisci dicta ab tempora saepe, fuga odio. Esse temporibus culpa ut eligendi consectetur quos enim perspiciatis id obcaecati aut minus unde, totam saepe reiciendis nisi, accusamus aliquid quas debitis voluptates non odio.
+        </p>
+       </center>
+
+       <hr>
+
+      <center>
+        <h1>Contact</h1>
+        <h2>+91 9876543210|eventcolob@gmaail.com</h2>
+        <p>9th street Thilai Nagar,Trichy.6003008</p>
+      </center>
+        
+</body>
+
+</html>
